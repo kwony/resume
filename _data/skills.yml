@@ -5,7 +5,7 @@
 
 # Available Languages
 - skill: C, C++, JAVA, Assembly Language (Especially ARM)
-  description: These are programming launguages I have used in my projects.
+  description: Programming launguages I have used in my projects.
 
 # Linux Kernel
 - skill: Linux Kernel
@@ -18,3 +18,7 @@
 # Android Frameworks
 - skill: Android Frameworks
   description: Develope Android system service to support OEM services.
+
+# Machine Learning
+- skill: Machine Learning
+  description: Passed Coursera Machine Learning class and know how to use tensorflow.

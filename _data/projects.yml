@@ -5,8 +5,16 @@
 - project: Type1 Hypervisor Automotive Virtualization
   role: Developer
   duration: 2016 &mdash; 2017
-  # url: https://www.youtube.com/watch?v=mBD8o9X32fA&list=PLYyw7IQjL-zFlQYbY9BgsLhxqp1Ui67W7&index=15&t=0s
-  description: Develope open source project Xen, Type-1 Hypervisor to use for Automotive Sofware residing under IVI to ensure reliability and security. In this project, I was in charge of boot time optimization which is top priority requirement in automotive industry. Its works were presented in Xen summit 2018 and its recorded video is on Youtube <link rel='stylesheet' type='text/css' href='https://www.youtube.com/watch?v=mBD8o9X32fA&list=PLYyw7IQjL-zFlQYbY9BgsLhxqp1Ui67W7&index=15&t=0s'>
+  url: https://www.youtube.com/watch?v=mBD8o9X32fA&list=PLYyw7IQjL-zFlQYbY9BgsLhxqp1Ui67W7&index=15&t=0s
+  description: Develope open source project Xen, Type-1 Hypervisor to use for Automotive Sofware residing under IVI to ensure reliability and security. In this project, I was in charge of boot time optimization which is top priority requirement in automotive industry. Its works were presented in Xen summit 2018 and its recorded video is on Youtube
+
+# Jochonmu
+- project: Jochongmu
+  role: Developer
+  duration: April 2018 &mdash; Pres
+  url: https://github.com/kwony/Jochonmu/tree/dev_android
+  description: Personal android application project which helps group leaders accounting. From this project, I learned basic APIs and lifecycles in android and experienced how design patterns are adapted to real source code.
+
 
 # Springfield Community Outreach Group
 # - project: Springfield Community Outreach Group
