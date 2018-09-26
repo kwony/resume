@@ -1,12 +1,20 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Virtualization technology
+- skill: Virtualization Technology
+  description: Several years of experience developing virtualization software both Type1 and Type2 Hypervisor. Open source projects like KVM, QEMU and Xen were mainly used in my projects.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Available Languages
+- skill: C, C++, JAVA, Assembly Language (Especially ARM)
+  description: These are programming launguages I have used in my projects.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Linux Kernel
+- skill: Linux Kernel
+  description: Deep knowledge in kernel API and its working mechanism.
+
+# Android Application
+- skill: Android Application
+  description: Experience to develop android application and launch personal project in Play Store.
+
+# Android Frameworks
+- skill: Android Frameworks
+  description: Develope Android system service to support OEM services.
