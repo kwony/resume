@@ -52,6 +52,7 @@ resume_social_links:
   resume_linkedin_url:          "https://www.linkedin.com/in/hyeonkwon-cho-926484123/"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "http://selfish-developer.com/"
+  resume_second_website_url:           "https://brunch.co.kr/@chkwon91"
   # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
