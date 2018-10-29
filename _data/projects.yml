@@ -11,9 +11,16 @@
 # Jochonmu
 - project: Jochongmu
   role: Developer
-  duration: April 2018 &mdash; Pres
+  duration: April 2017 &mdash; Pres
   url: https://github.com/kwony/Jochonmu/tree/dev_android
   description: Personal android application project which helps group leaders accounting. From this project, I learned basic APIs and lifecycles in android and experienced how design patterns are adapted to real source code.
+
+# Poliface
+- project: Poliface
+  role: Developer
+  duration: July 2017 &mdash; November 2017
+  url: https://github.com/kwony/Poliface
+  description: This project is web service which finds the politician whose face is similar to user. I was in charge of learning and predicting via tensorflow API. From this project, I am accustomed to use tensorflow and learned elementary libraries used in Django.
 
 
 # Springfield Community Outreach Group
