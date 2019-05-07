@@ -2,11 +2,17 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # Automotive Virtualization.
-- project: Type1 Hypervisor Automotive Virtualization
+- project: Automotive Virtualization
   role: Developer
   duration: 2016 &mdash; 2017
   url: https://www.youtube.com/watch?v=mBD8o9X32fA&list=PLYyw7IQjL-zFlQYbY9BgsLhxqp1Ui67W7&index=15&t=0s
   description: Develope open source project Xen, Type-1 Hypervisor to use for Automotive Sofware residing under IVI to ensure reliability and security. In this project, I was in charge of boot time optimization which is top priority requirement in automotive industry. Its works were presented in Xen summit 2018 and its recorded video is on Youtube
+
+# Smartphone Virtualization
+- project: CE/IM device Virtualization.
+  role: Developer
+  duration: 2018 &mdash; Pres
+  description: Research KVM, Type-2 Hypervisor to provide new experiences to CE/IM device users.  Main works of this project are maximizing Virtual Machine perfomance in network, storage and graphics and supporting various virtual devices to Virtual Machine. I was in charge of improving cpu, storage performance and support audio and serial device to Virtual Machine.
 
 # Jochonmu
 - project: Jochongmu
