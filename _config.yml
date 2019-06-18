@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "false"
+resume_avatar:                  "true"
 resume_name:                    "Hyeonkwon Cho"
 resume_title:                   "Software Engineer"
 
@@ -23,7 +23,7 @@ resume_contact_email:           "chkwon91@gmail.com"
 resume_header_contact_info:     "chkwon91@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>I am software engineer desiring to learn and experience a wide range of softwares from Operating System to User space client application. </p> <p>Currently, I work as system software programmer specialized in Virtualization, Linux kernel and Android frameworks but have an experience developing user space softwares like android application, Web server through various projects.</p>"
+resume_header_intro: "<p>I am system software developer who is interested in Linux kernel drivers, scheduling, memory optimization, graphics and open source virtualization technology like Xen and KVM.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
