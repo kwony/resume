@@ -14,6 +14,13 @@
   duration: 2018 &mdash; Pres
   description: Research KVM, Type-2 Hypervisor to provide new experiences to CE/IM device users.  Main works of this project are maximizing Virtual Machine perfomance in network, storage and graphics and supporting various virtual devices to Virtual Machine. I was in charge of improving cpu, storage performance and support audio and serial device to Virtual Machine.
 
+# Robot Virtualization
+- project: Incorporate two-chip board into one through hypervisor
+  role: Developer
+  duration: 2018 &mdash; Pres
+  description: Incorporate two-chip based board into one chip through KVM and QEMU hypervisor system by running one chip board operating system as Host and launch the other board system as guest OS. Implementing pass-through environment for guest OS to use devices(e.g USB, Audio, Camera) which were used by its chip was major issue.
+
+
 # Jochonmu
 - project: Jochongmu
   role: Developer
